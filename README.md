@@ -1,8 +1,12 @@
 ## Intro
 🔭 Working on: software engineering
+
 🌱 Workng in: TCL
+
 ⚡ Graduated from: HIT-*Computer Science* bachelor's degree / XJTLU-**HCI** master's degree 
+
 🤖 Now working: AI / .NET software design
+
 
 
 ## Skills
