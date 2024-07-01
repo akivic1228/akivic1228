@@ -1,8 +1,8 @@
 ## Intro
-🔭 Working on: HCI and software engineering   
-🌱 Currently studying in: XJTLU for **HCI** master degree  
-⚡ Graduated from: Harbin Institute of Technology for Computer Engineering  
-🤖 Now working: Qt Design and Intelligent Medical Care
+🔭 Working on: software engineering
+🌱 Workng in: TCL
+⚡ Graduated from: HIT-*Computer Science* bachelor's degree / XJTLU-**HCI** master's degree 
+🤖 Now working: AI / .NET software design
 
 
 ## Skills
